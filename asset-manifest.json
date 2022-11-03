@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/andreseduardorc.io/ListaTareas/static/css/main.bc4c2cb5.css",
+    "main.js": "/andreseduardorc.io/ListaTareas/static/js/main.a0711bee.js",
+    "index.html": "/andreseduardorc.io/ListaTareas/index.html",
+    "main.bc4c2cb5.css.map": "/andreseduardorc.io/ListaTareas/static/css/main.bc4c2cb5.css.map",
+    "main.a0711bee.js.map": "/andreseduardorc.io/ListaTareas/static/js/main.a0711bee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc4c2cb5.css",
+    "static/js/main.a0711bee.js"
+  ]
+}
